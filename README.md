@@ -12,6 +12,7 @@ If you haven't already, please follow the <a href="https://github.com/udacity/de
 For this project, you will not need to install Unity - this is because we have already built the environment for you, and you can download it from one of the links below. You need only select the environment that matches your operating system:
 
 Version 1: One (1) Agent
+<br/>
 Linux: <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Linux.zip">click here</a>
 <br/>
 Mac OSX: <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher.app.zip">click here</a>
